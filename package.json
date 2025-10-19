@@ -1,0 +1,46 @@
+{
+  "name": "romantic-heart-october20",
+  "version": "1.0.0",
+  "description": "A special romantic 3D heart with flying messages for October 20th",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.88.13",
+    "@react-three/fiber": "^8.15.11",
+    "framer-motion": "^10.16.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "^0.166.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.150.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "react",
+    "threejs",
+    "3d",
+    "heart",
+    "romantic",
+    "october20"
+  ],
+  "author": "Your Love",
+  "license": "MIT"
+}
